@@ -2543,7 +2543,7 @@
 		}
 
 		#header a {
-			border-bottom-color: rgba(255, 255, 255, 0.35);
+			border-color: rgba(255, 255, 255, 0.35);
 			color: rgba(255, 255, 255, 0.8);
 		}
 
